@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "広島大学原爆放射線医科学研究所放射線災害医療研究開発"
+title: "広島大学放射線災害医療開発研究分野"
 author_profile: true
 redirect_from: 
   - /about/
