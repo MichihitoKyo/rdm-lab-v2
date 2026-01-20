@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Radiation Disaster Medicine Laboratory"
+title: "広島大学原爆放射線医科学研究所放射線災害医療研究開発"
 author_profile: true
 redirect_from: 
   - /about/
