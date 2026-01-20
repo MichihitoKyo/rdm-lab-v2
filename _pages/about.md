@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 **[2024.06.03]** [京先生が就任されました！](https://rdm2017.hiroshima-u.ac.jp/archives/532)
 
